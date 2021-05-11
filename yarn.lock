@@ -1463,7 +1463,7 @@ cacache@^10.0.4:
     rimraf "^2.6.2"
     ssri "^5.2.4"
     unique-filename "^1.1.0"
-    y18n "^4.0.0"
+    y18n "5.0.5"
 
 cacache@^12.0.2:
   version "12.0.4"
@@ -1484,7 +1484,7 @@ cacache@^12.0.2:
     rimraf "^2.6.3"
     ssri "^6.0.1"
     unique-filename "^1.1.1"
-    y18n "^4.0.0"
+    y18n "^5.0.1"
 
 cache-base@^1.0.1:
   version "1.0.1"
@@ -10028,15 +10028,10 @@ xterm@4.10.0-beta.4:
   resolved "https://registry.yarnpkg.com/xterm/-/xterm-4.10.0-beta.4.tgz#95efce7a40ec582101ec9777f4ccc6e68e95185e"
   integrity sha512-q/yRy2nn4mp1jWZe218TJwlKjXCIr6h28Kw0JMB+lcTeU+MebZ3TrHqlrNVnB+UJfFDOpkw0qfKYfRoV8G/hXA==
 
-y18n@^3.2.1:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
-  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
-
-y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+y18n@^5.0.1:
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-5.0.5.tgz#8769ec08d03b1ea2df2500acef561743bbb9ab18"
+  integrity sha512-hsRUr4FFrvhhRH12wOdfs38Gy7k2FFzB9qgN9v3aLykRq0dRcdcpz5C9FxdS2NuhOrI/628b/KSTJ3rwHysYSg==
 
 yallist@^2.1.2:
   version "2.1.2"
@@ -10078,7 +10073,7 @@ yargs@^13.2.4:
     set-blocking "^2.0.0"
     string-width "^3.0.0"
     which-module "^2.0.0"
-    y18n "^4.0.0"
+    y18n "^5.0.1"
     yargs-parser "^13.1.0"
 
 yargs@^13.3.0, yargs@^13.3.2:
@@ -10094,7 +10089,7 @@ yargs@^13.3.0, yargs@^13.3.2:
     set-blocking "^2.0.0"
     string-width "^3.0.0"
     which-module "^2.0.0"
-    y18n "^4.0.0"
+    y18n "^5.0.1"
     yargs-parser "^13.1.2"
 
 yargs@^7.1.0:
